@@ -1,7 +1,7 @@
 ![image](img/bg2.png)
 
 # 👋 Hi there, I'm Ridho Pujiono
-##### I'm a web developer who enjoys building useful, scalable, and impactful applications. I work mainly with **web technologies**, focusing on clean code, thoughtful architecture, and user-friendly interfaces.
+### I'm a web developer who enjoys building useful, scalable, and impactful applications. I work mainly with **web technologies**, focusing on clean code, thoughtful architecture, and user-friendly interfaces.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ridho_pujiono) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ridho-pujiono) 
